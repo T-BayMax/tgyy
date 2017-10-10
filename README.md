@@ -1,11 +1,8 @@
 # tgyy 
-## 挺哥影院
-
 
 # 运行方法
 先 npm install
 后 npm run dev
-
 
 
 # 内容
